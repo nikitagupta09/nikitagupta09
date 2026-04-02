@@ -30,7 +30,6 @@
 </div>
 
 ---
----
 
 ## 🧠 About Me
 
@@ -217,6 +216,7 @@ Analyzed **100,000+ delivery records**. Weather increases miss rates by **60%**,
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikitagupta09&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
+
 ---
 
 ## 🔭 Currently Exploring
