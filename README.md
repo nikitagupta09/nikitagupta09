@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nikita%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Cloud%20%26%20Analytics%20Specialist&descAlignY=55&descSize=16"/>
+
+<svg width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1f35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="180" fill="url(#grad)" rx="12"/>
+  <text x="400" y="85" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="white" text-anchor="middle">Nikita Gupta</text>
+  <text x="400" y="125" font-family="Arial, sans-serif" font-size="15" fill="#6AD3F7" text-anchor="middle">Data Engineer • AI/ML Builder • Cloud &amp; Analytics Specialist</text>
+</svg>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+intelligent+systems+%E2%9A%A1;3%2B+years+in+Data+Engineering+%26+GenAI;Building+pipelines+that+actually+scale+%F0%9F%9A%80;RAG+%7C+LLMs+%7C+Cloud+%7C+Real-Time+Data" alt="Typing SVG" />
 
@@ -17,6 +29,7 @@
 
 </div>
 
+---
 ---
 
 ## 🧠 About Me
@@ -201,15 +214,9 @@ Analyzed **100,000+ delivery records**. Weather increases miss rates by **60%**,
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nikitagupta09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagupta09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikitagupta09&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
-
 ---
 
 ## 🔭 Currently Exploring
