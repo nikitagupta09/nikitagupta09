@@ -1,99 +1,136 @@
-<h1 align="center">🚀 Hey, I'm Nikita Gupta</h1>
+<h1 align="center">⚡ Nikita Gupta</h1>
 
 <p align="center">
-Data Engineer • AI/ML Enthusiast • Cloud & GenAI Systems  
-<br>
-Turning data into scalable, intelligent systems ⚡
+<b>Data Engineer • Generative AI • Cloud Systems</b><br>
+Building intelligent systems where data meets scale
+</p>
+
+<p align="center">
+<a href="https://github.com/nikitagupta09">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/nikita-g-ab4b4516b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
+</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## ⚙️ What I Do
 
-✨ MS in Information Systems @ Northeastern University  
-💡 Building ETL pipelines, AI-powered systems & cloud-native data platforms  
-🚀 Passionate about LLMs, Data Engineering & real-world scalable solutions  
+```text
+I design systems that:
+→ move data efficiently
+→ transform it into insights
+→ and make it intelligent with AI
+```
 
 ---
 
-## ⚡ Tech Stack
+## 🧠 Core Focus
+
+```python
+engineer = {
+    "data": ["ETL Pipelines", "Data Modeling", "Warehousing"],
+    "ai": ["LLMs", "RAG Systems", "Prompt Engineering"],
+    "cloud": ["AWS", "Azure", "Distributed Systems"],
+    "analytics": ["Dashboards", "KPIs", "Decision Systems"]
+}
+```
+
+---
+
+## 🚀 Selected Work
+
+### 🤖 GenAI Supply Chain Intelligence
+
+→ GPT-4 + Pinecone + LangChain
+→ Improved forecasting by 25%
+
+### 📦 Delivery Optimization Engine
+
+→ AWS (Glue + Redshift + S3)
+→ Reduced missed deliveries by 33%
+
+### 💌 AI Personalization System
+
+→ LLM-based automation
+→ Reduced manual effort by 40%
+
+---
+
+## 📊 Impact
+
+```text
+⚡ 50% faster queries
+📉 40% reduction in manual work
+📈 25% improvement in forecasting
+🚀 30% better reporting efficiency
+```
+
+---
+
+## 🧩 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,java,javascript" /><br>
+
+<!-- Languages -->
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,sql" /><br>
+
+<!-- Cloud & Tools -->
+
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" /><br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
+<!-- Data & Databases -->
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" /><br>
+
 </p>
 
 <p align="center">
-🧠 AI/ML: LangChain • OpenAI • RAG • TensorFlow • Scikit-learn  
-📊 Data: Snowflake • Databricks • Spark • Airflow • ETL  
-📈 BI: Tableau • Power BI • Streamlit  
+
+🧠 AI/ML: LangChain • OpenAI • RAG • TensorFlow • Scikit-learn
+📊 Data: Snowflake • Databricks • Spark • Airflow
+📈 BI: Tableau • Power BI • Streamlit
+
 </p>
-
----
-
-## 🚀 Experience Highlights
-
-🔹 **Data/AI Engineer @ Bright Mind Enrichment**  
-→ Built ETL pipelines (Azure Data Factory) → ⚡ improved data reliability  
-→ Optimized SQL workflows → ⚡ 50% faster queries  
-→ Built GenAI outreach system → 🚀 reduced manual effort by 40%  
-
-🔹 **Data Analyst @ Northeastern University**  
-→ Built SQL pipelines + Power BI dashboards → ⚡ 30% faster reporting  
-→ Automated product & inventory analytics  
-
-🔹 **Data Analyst @ Redington Group**  
-→ Built PySpark pipelines across 40+ markets → ⚡ faster reporting  
-→ Developed ML forecasting models → 📈 improved accuracy  
-
----
-
-## 🌟 Featured Projects
-
-🤖 **Generative AI Supply Chain (RAG)**  
-GPT-4 + LangChain + Pinecone + Streamlit  
-📈 Improved forecasting & decision-making by 25%  
-
-📦 **Amazon Delivery Optimization**  
-AWS (Redshift + Glue + S3)  
-📈 Reduced missed deliveries & improved efficiency  
-
-💌 **AI Donor Outreach System**  
-LLM-powered personalization engine  
-🚀 Reduced manual work & improved engagement  
-
----
-
-## 📈 Impact
-
-| 🚀 Metric | 📊 Value |
-|----------|--------|
-| Query Speed | 50% Faster |
-| Data Quality | 30% ↑ |
-| Manual Effort | 40% ↓ |
-| Forecast Accuracy | 25% ↑ |
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitagupta09&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagupta09&layout=compact" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nikitagupta09&show_icons=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagupta09&layout=compact" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikitagupta09" />
+<img src="https://streak-stats.demolab.com?user=nikitagupta09" />
 </p>
 
 ---
 
-## 🧠 Currently Exploring
+## 🔭 Currently Building
 
 ```python
-focus = {
-  "AI": ["LLMs", "RAG", "Prompt Engineering"],
-  "Data Engineering": ["Streaming", "DataOps"],
-  "Cloud": ["Serverless", "Distributed Systems"]
-}
+now = [
+    "LLM-powered applications",
+    "Real-time data pipelines",
+    "AI + analytics systems"
+]
+```
+
+---
+
+## 🤝 Connect
+
+Email: [nikitasgupta9@gmail.com](mailto:nikitasgupta9@gmail.com)
+GitHub: https://github.com/nikitagupta09
+LinkedIn: https://www.linkedin.com/in/nikita-g-ab4b4516b/
+
+---
+
+<p align="center">
+<i>“Good data informs decisions. Great systems automate them.”</i>
+</p>
