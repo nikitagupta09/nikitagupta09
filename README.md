@@ -1,5 +1,7 @@
 
-````md
+If you want the **full README**, copy this exact version as one file:
+
+```md
 <h1 align="center">✨ Nikita Gupta ✨</h1>
 
 <h3 align="center">
@@ -90,8 +92,6 @@ engineer = {
     "cloud": ["AWS", "Azure", "Distributed Systems", "Scalable Architectures"],
     "analytics": ["Dashboards", "KPI Tracking", "Decision Systems", "Reporting Automation"]
 }
-````
-
 ---
 
 ## 🌟 Featured Work
