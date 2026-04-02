@@ -154,18 +154,6 @@ nikita = {
 
 ---
 
-## 💡 Tips to Level Up This README Further
-
-> **🔥 Add these to make your profile even more impressive:**
->
-> 1. **GitHub Stats Card** — Add dynamic stats using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-> 2. **Contribution Snake** — Animated snake eating your contributions (looks amazing!)
-> 3. **Pinned Repos** — Pin your 2 best projects with descriptions on your GitHub profile page
-> 4. **Streak Stats** — Show your daily contribution streak
-> 5. **WakaTime Badge** — If you use VS Code, connect WakaTime to show coding hours
-
-<!-- Uncomment and paste your GitHub username to activate stats:
-
 ![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitagupta09&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagupta09&layout=compact&theme=tokyonight&hide_border=true)
