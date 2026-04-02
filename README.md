@@ -1,43 +1,71 @@
-<h1 align="center">Hi, I'm Nikita Gupta 👋</h1>
-<h3 align="center">AI & Data Engineer | Building scalable data systems & GenAI solutions</h3>
+<h1 align="center">🚀 Hey, I'm Nikita Gupta</h1>
+<h3 align="center">AI & Data Engineer • Generative AI • Cloud & Analytics Systems</h3>
+
+<p align="center">
+Turning raw data into scalable, intelligent systems ⚡
+</p>
 
 ---
 
-## 🚀 About Me
-I’m an AI & Data Engineer with experience in data engineering, analytics, and Generative AI.  
-I build systems that transform raw data into insights, dashboards, and intelligent applications.
-
-- 🎓 MS in Information Systems @ Northeastern University  
-- 💼 3+ years in Data Engineering & Analytics  
-- 🤖 Building RAG systems, ETL pipelines, and analytics solutions  
+## 🧠 About Me
+✨ MS in Information Systems @ Northeastern University  
+💡 3+ years building data pipelines, analytics systems & AI-powered solutions  
+🚀 Passionate about Generative AI, Data Engineering & scalable architectures  
 
 ---
 
-## 🧠 Tech Stack
+## ⚡ Tech Stack
+
 **Languages:** Python, SQL, R, JavaScript  
 **Cloud:** AWS, Azure, GCP  
-**Data:** Snowflake, Databricks, PostgreSQL, MongoDB  
-**Tools:** Airflow, Spark, Tableau, Power BI, Streamlit  
-**AI:** LangChain, OpenAI, RAG, NLP  
+**Data Engineering:** Airflow, Spark, ETL/ELT, Data Modeling  
+**Databases:** Snowflake, Databricks, PostgreSQL, MongoDB, Pinecone  
+**Visualization:** Tableau, Power BI, Streamlit  
+**AI/ML:** Scikit-learn, TensorFlow, PyTorch, LangChain, OpenAI, RAG  
+
+---
+
+## 🚀 Experience Highlights
+
+🔹 **Data/AI Engineer @ Bright Mind Enrichment**  
+- Built ETL pipelines using Azure Data Factory → ⚡ improved data quality & reliability  
+- Optimized SQL queries → ⚡ 50% faster execution  
+- Developed GenAI donor outreach tool → 🚀 reduced manual effort by 40%  
+
+🔹 **Data Analyst @ Northeastern University**  
+- Built SQL pipelines & dashboards → ⚡ improved reporting efficiency by 30%  
+- Automated product analytics & inventory insights using Power BI  
+
+🔹 **Data Analyst @ Redington Group**  
+- Built PySpark pipelines across 40+ markets → ⚡ improved reporting speed  
+- Developed ML forecasting models → 📈 improved prediction accuracy  
 
 ---
 
 ## 🌟 Featured Projects
-🔹 Generative AI Supply Chain Tool  
-- Built RAG system using GPT-4 + Pinecone + Streamlit  
 
-🔹 Amazon Delivery Optimization  
-- AWS pipeline analyzing 100K+ deliveries  
+🤖 **Generative AI Supply Chain Analytics (RAG)**  
+- GPT-4 + LangChain + Pinecone + Streamlit  
+- 📈 Improved forecasting & decision-making by 25%  
 
-🔹 Donor Outreach AI Tool  
-- Automated personalized emails using LLM APIs  
+📦 **Amazon Last-Mile Delivery Optimization**  
+- AWS (Redshift + Glue + S3) pipeline  
+- 📈 Reduced missed deliveries & improved efficiency  
+
+💌 **AI Donor Outreach Automation**  
+- LLM-based personalized email generation  
+- 🚀 Improved engagement & reduced manual work  
 
 ---
 
-## 💼 Experience
-- Data/AI Engineer – Bright Mind Enrichment  
-- Data Analyst – Northeastern University  
-- Data Analyst – Redington Group  
+## 📈 Impact
+
+| 🚀 Metric | 📊 Value |
+|----------|--------|
+| Query Optimization | 50% Faster |
+| Data Quality Improvement | 30% ↑ |
+| Manual Effort Reduction | 40% ↓ |
+| Forecast Accuracy | 25% ↑ |
 
 ---
 
@@ -54,24 +82,11 @@ I build systems that transform raw data into insights, dashboards, and intellige
 
 ---
 
-## 📫 Contact
-📧 nikitasgupta9@gmail.com  
-🔗 GitHub: https://github.com/nikitagupta09  
+## 🧠 Currently Exploring
 
----
-
-⭐ Always building data-driven & AI-powered solutions
-<!--
-**nikitagupta09/nikitagupta09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+focus = {
+  "AI": ["LLMs", "RAG", "Prompt Engineering"],
+  "Data Engineering": ["Streaming", "DataOps", "Pipeline Optimization"],
+  "Cloud": ["Serverless", "Distributed Systems"]
+}
