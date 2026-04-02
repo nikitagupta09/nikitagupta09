@@ -19,19 +19,15 @@ Turning data into scalable, intelligent systems ⚡
 ## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,sql" /><br>
+<img src="https://skillicons.dev/icons?i=python,sql,java,javascript" /><br>
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" /><br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" /><br>
-
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 <p align="center">
-
-🧠 AI/ML: LangChain • OpenAI • RAG • Scikit-learn • TensorFlow  
+🧠 AI/ML: LangChain • OpenAI • RAG • TensorFlow • Scikit-learn  
 📊 Data: Snowflake • Databricks • Spark • Airflow • ETL  
 📈 BI: Tableau • Power BI • Streamlit  
-
 </p>
 
 ---
@@ -81,6 +77,11 @@ LLM-powered personalization engine
 ---
 
 ## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitagupta09&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitagupta09&layout=compact" height="150"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nikitagupta09" />
