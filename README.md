@@ -111,58 +111,6 @@ nikita = {
 
 ---
 
-## 💼 Experience Highlights
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 Data / AI Engineer
-**Bright Mind Enrichment** · *Aug 2025 – Mar 2026*
-
-- 🔧 Built **Azure Data Factory** ETL pipelines → ↓ **30%** ingestion errors
-- 📊 **Tableau dashboards** for senior leadership → ↑ **30%** KPI efficiency
-- ⚡ SQL optimization (CTEs + indexing) → ↓ **50%** query time
-- 🤖 **GenAI donor outreach tool** via LLM APIs → ↓ **40%** manual effort
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Data Analyst
-**Northeastern University Bookstore** · *Apr 2024 – May 2025*
-
-- 🔗 SQL reconciliation of **10,000+** product records across systems
-- 📈 **Power BI dashboards** → ↑ **25%** stock allocation decisions
-- ⏱️ Reduced reconciliation time by **30%** via automated workflows
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 Data Analyst
-**Redington Group, UAE** · *Sep 2022 – Aug 2023*
-
-- 🚀 **PySpark on Databricks** across 40+ markets → ↑ **20%** reporting speed
-- 🔮 Demand forecasting with **scikit-learn** → ↓ **70%** manual effort
-- 📊 Tableau dashboards for sales & partner performance
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Data Science Intern
-**Techtastic Technologies** · *Jan 2022 – Jun 2022*
-
-- 🧩 **K-Means clustering** identifying 3 distinct customer segments
-- 📉 EDA + hypothesis testing → ↑ **20%** operational efficiency
-- 📊 Power BI dashboards improving sales targeting by **25%**
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🌟 Featured Projects
 
 <table>
